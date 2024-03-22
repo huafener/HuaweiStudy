@@ -1,3 +1,3 @@
 # HuaweiStudy
 
-华为研究
+Huawei studies
